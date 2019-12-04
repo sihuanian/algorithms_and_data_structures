@@ -23,6 +23,6 @@ function bubbleSort (array) {
   }
   return array
 }
-// const test = [4, 5, 6, 3, 2, 1]
-const test = [2]
+const test = [4, 5, 6, 3, 2, 1]
+// const test = [2]
 console.log(bubbleSort(test))
